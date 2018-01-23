@@ -4,8 +4,8 @@
   "private": true,
   "dependencies": {
     "office-ui-fabric-react": "^0.78.2",
-    "react": "^16.2.0",
-    "react-dom": "^16.2.0"
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1"
   },
   "devDependencies": {
     "react-scripts": "1.1.0"
